@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameFramework.Setting.SettingManager">
+    <Position X="0.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AASggJgAECAgIgAIAkAABQQAAAAAAAAEAAAAAADAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Setting\SettingManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameFramework.Procedure.ProcedureBase" Collapsed="true">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAABAAAAAAAAQAAIAAAAEAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Procedure\ProcedureBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Procedure.ProcedureManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAAAAAAQAMAAEAIQAAAQAAIAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Procedure\ProcedureManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GameFramework.Fsm.FsmState&lt;T&gt;" Collapsed="true">
+    <Position X="1.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAABAAAAAAAABAAAAAAAAQAAIAAAAEAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Fsm\FsmState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="GameFramework.Procedure.IProcedureManager" Collapsed="true">
+    <Position X="3.25" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAEAIAAAAQAAIAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Procedure\IProcedureManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UnityGameFramework.Runtime.BuiltinVersionListSerializer" Collapsed="true">
+    <Position X="9.5" Y="6.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAICIIACANAAAQgAAACAAAAEAAEAAEAAAJAACAAQALA=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\BuiltinVersionListSerializer.LocalVersionListDeserializeCallback.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityGameFramework.Runtime.DefaultLoadResourceAgentHelper" Collapsed="true">
+    <Position X="3" Y="7.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAiAAEgiBAbgAEAZAAAAAABAAIQFAAEhgBgEAAACA=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\DefaultLoadResourceAgentHelper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UnityGameFramework.Runtime.DefaultResourceHelper" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAADAAAAAAAAAAAAAAAAAEAAAAQAAAABAAAAA=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\DefaultResourceHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityGameFramework.Runtime.EditorResourceComponent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="6.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AhcgJ0c9CAmBOEU8GBAIiQhACBAHVF2AEJIFq3ARIko=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\EditorResourceComponent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="UnityGameFramework.Runtime.LoadResourceAgentHelperBase" Collapsed="true">
+    <Position X="3.25" Y="6.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAiAAAAABATgAEAAAAAAAAAAAAAEAAEAAAgAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\LoadResourceAgentHelperBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UnityGameFramework.Runtime.ResourceApplyFailureEventArgs" Collapsed="true">
+    <Position X="7" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAgABAAAAAAAAAAAAQAAAAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\ResourceApplyFailureEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityGameFramework.Runtime.ResourceApplyStartEventArgs" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgABAAAAAAAgAAAAQAAAAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\ResourceApplyStartEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityGameFramework.Runtime.ResourceApplySuccessEventArgs" Collapsed="true">
+    <Position X="4" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>gAACAAAgABACAAAAAAAAAARAAAAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\ResourceApplySuccessEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityGameFramework.Runtime.ResourceComponent" Collapsed="true">
+    <Position X="6.25" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AhcgJi+tCKHC+EYsMJUKAUjADTAJRkyBkFoMpmwDIcg=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\ResourceComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityGameFramework.Runtime.ResourceHelperBase" Collapsed="true">
+    <Position X="0.75" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAABAAAAA=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\ResourceHelperBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UnityGameFramework.Runtime.ResourceUpdateAllCompleteEventArgs" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAAAAAAAAAAAAAAAAAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\ResourceUpdateAllCompleteEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityGameFramework.Runtime.ResourceUpdateChangedEventArgs" Collapsed="true">
+    <Position X="0.5" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>gAACAAAgAAAAAAgAAAAAABQAACAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\ResourceUpdateChangedEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityGameFramework.Runtime.ResourceUpdateFailureEventArgs" Collapsed="true">
+    <Position X="7" Y="1.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QQACAAAgAAAAAAgAAAAAAAQAAAAAAEAAAAAAAABAEAA=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\ResourceUpdateFailureEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityGameFramework.Runtime.ResourceUpdateStartEventArgs" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>wAACAAAgAAAAAAgAAAAAABQAACAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\ResourceUpdateStartEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityGameFramework.Runtime.ResourceUpdateSuccessEventArgs" Collapsed="true">
+    <Position X="4" Y="1.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>gAACAAAgAAAAAAgAAAAAAARAACAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\ResourceUpdateSuccessEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityGameFramework.Runtime.ResourceVerifyFailureEventArgs" Collapsed="true">
+    <Position X="7" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAAAAAAAAAAAAQAAAAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\ResourceVerifyFailureEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityGameFramework.Runtime.ResourceVerifyStartEventArgs" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAAAAAAAgAAAAQAAAAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\ResourceVerifyStartEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityGameFramework.Runtime.ResourceVerifySuccessEventArgs" Collapsed="true">
+    <Position X="4" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAAAAAAAAAAAARAAAAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\ResourceVerifySuccessEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityGameFramework.Runtime.SceneAsset" Collapsed="true">
+    <Position X="6.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\SceneAsset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="UnityGameFramework.Runtime.ReadWritePathType" Collapsed="true">
+    <Position X="7.75" Y="8.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIBAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\ReadWritePathType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

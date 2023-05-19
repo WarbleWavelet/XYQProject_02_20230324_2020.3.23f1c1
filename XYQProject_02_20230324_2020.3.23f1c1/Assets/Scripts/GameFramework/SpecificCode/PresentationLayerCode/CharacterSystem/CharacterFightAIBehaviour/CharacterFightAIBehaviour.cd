@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AttackFightBehaviour" Collapsed="true">
+    <Position X="1.25" Y="2.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QACARAEAAAAAAAAAAAIAAAAAAAAACAAABCAAAAgAABA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\CharacterFightAIBehaviour\AttackFightBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterFightAIBehaviour" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACAAACAAAAABAAAAIAAAAAAAAAAAAAAAAEQ=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\CharacterFightAIBehaviour\CharacterFightAIBehaviour\CharacterFightAIBehaviour.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CharacterFightValueState" Collapsed="true">
+    <Position X="5" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAAAAABAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\CharacterFightAIBehaviour\CharacterFightValueState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterMouseDetection" Collapsed="true">
+    <Position X="5" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAEEAAAAAAIAAAAAAQAEA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\CharacterFightAIBehaviour\CharacterMouseDetection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefendAndDodgeFightBehaviour" Collapsed="true">
+    <Position X="1.25" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACAAEAAAAAAAAAAAAQAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\CharacterFightAIBehaviour\DefendAndDodgeFightBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HitAndDieFightBehaviour" Collapsed="true">
+    <Position X="1.25" Y="5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAQAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\CharacterFightAIBehaviour\HitAndDieFightBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveFightBehaviour" Collapsed="true">
+    <Position X="1.25" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAOIAQAAAMhAAEAABAAABAAIAAAABAAgAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\CharacterFightAIBehaviour\MoveFightBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UseItemAndSKillFightBehaviour" Collapsed="true">
+    <Position X="1.25" Y="4.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ABEAABAAAAAAAAAAAAAAAAAAAAACAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\CharacterFightAIBehaviour\UseItemAndSKillFightBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

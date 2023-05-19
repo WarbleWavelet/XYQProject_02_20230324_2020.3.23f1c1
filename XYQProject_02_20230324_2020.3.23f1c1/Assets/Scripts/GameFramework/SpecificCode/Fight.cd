@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FightUIManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAFEAICCAAAAAAACAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\UISystem\FightUI\FightUIManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NumCanvas" Collapsed="true">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAhAACAAAAAAAAAAAAAAAAAgAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\UISystem\FightUI\NumCanvas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemUIManager" Collapsed="true">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAACAACAMAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\UISystem\ItemUI\ItemUIManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SkillUIManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAgAAABAAAAAAAAAAAAAEAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\UISystem\SkillUI\SkillUIManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="OpenOrCloseFightCommandPanelEvent" Collapsed="true">
+    <Position X="0.75" Y="2" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\UISystem\FightUI\OpenOrCloseFightCommandPanelEvent.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="OpenOrCloseFightBagPanelEvent" Collapsed="true">
+    <Position X="0.75" Y="4.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\UISystem\ItemUI\OpenOrCloseFightBagPanelEvent.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="OpenOrCloseSkillPanelEvent" Collapsed="true">
+    <Position X="4.5" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\UISystem\SkillUI\OpenOrCloseSkillPanelEvent.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CloseAllFightUIPanelCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="2.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\UISystem\FightUI\CloseAllFightUIPanelCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="CancelUsingSkillEvent" Collapsed="true">
+    <Position X="4.5" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\UISystem\SkillUI\CancelUsingSkillEvent.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ChangeUsingSkillStateCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\UISystem\SkillUI\ChangeUsingSkillStateCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Struct>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

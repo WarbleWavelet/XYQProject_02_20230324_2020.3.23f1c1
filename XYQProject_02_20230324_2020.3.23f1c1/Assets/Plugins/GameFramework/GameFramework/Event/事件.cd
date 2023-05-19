@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameFramework.Event.EventManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAgAAAAAAACEAAAEAQSAAAAmAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Event\EventManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GameFramework.Event.GameEventArgs" Collapsed="true">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Event\GameEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="GameFramework.Event.IEventManager" Collapsed="true">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAACAAAAEAASAAAAmAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Event\IEventManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AttackFightBehaviour" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QACARAEAAAAAAAAAAAIAAAAAAAAACAAABCAAAAgAABA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\AttackFightBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterFightAI" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCABDABEILYAMBEAsyAABAjBQwEGAggIhiAgAAICEFQ=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\CharacterFightAI\CharacterFightAI.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CharacterFightAIBehaviour" Collapsed="true">
+    <Position X="2.5" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACAAACAAAAABAAAAIAAAAAAAAAAAAAAAAEQ=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\CharacterFightAIBehaviour.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CharacterFightValueState" Collapsed="true">
+    <Position X="5" Y="2.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAAAAABAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\CharacterFightValueState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterMouseDetection" Collapsed="true">
+    <Position X="5" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAEEAAAAAAIAAAAAAQAEA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\CharacterMouseDetection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefendAndDodgeFightBehaviour" Collapsed="true">
+    <Position X="0.5" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACAAEAAAAAAAAAAAAQAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\DefendAndDodgeFightBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FightLogicController" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAACAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\FightLogicController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FightSystem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAACgACAAJQAAAIQAAAgAKQAABAEAGEQAKAgA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\FightSystem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HitAndDieFightBehaviour" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAQAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\HitAndDieFightBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveFightBehaviour" Collapsed="true">
+    <Position X="5" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAOIAQAAAMhAAEAABAAABAAIAAAABAAgAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\MoveFightBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UseItemAndSKillFightBehaviour" Collapsed="true">
+    <Position X="5" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ABEAABAAAAAAAAAAAAAAAAAAAAACAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\UseItemAndSKillFightBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="CharacterDieCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\CharacterDieCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Struct>
+  <Struct Name="ClearAIListAndDestoryGameObjectCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\ClearAIListAndDestoryGameObjectCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="CreateCharactersCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\CreateCharactersCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="CreateHitEffectCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\CreateHitEffectCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="CreateSkillEffectCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\CreateSkillEffectCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Struct>
+  <Struct Name="DecreaseDieCountCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\DecreaseDieCountCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="DelayHitTargetCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\DelayHitTargetCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="DelayHitTargetCommandParams" Collapsed="true">
+    <Position X="6" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\DelayHitTargetCommand.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="DelaySowTargetCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\DelaySowTargetCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="EndCurrentTurnCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\EndCurrentTurnCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="GetAttackTargetsCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\GetAttackTargetsCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="GetRandomCharacterCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\GetRandomCharacterCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="JudgeIfExitFightCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\JudgeIfExitFightCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="PerformLogicCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\PerformLogicCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="RandomEnemyActCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\RandomEnemyActCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="ResetCurrentAIState" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\ResetCurrentAIState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="ResetFightLogicStateCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\ResetFightLogicStateCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="SetCharacterActCodeCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\SetCharacterActCodeCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="SetCharacterActCodeCommandParams" Collapsed="true">
+    <Position X="7.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\SetCharacterActCodeCommand.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ActObj" Collapsed="true">
+    <Position X="0.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEABAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\SetCharacterActCodeCommand.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SetPlayerTargetAICommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\SetPlayerTargetAICommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="SetTargetAICommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\SetTargetAICommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="ToNextCharacterActCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\ToNextCharacterActCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="UpdateFightLogicCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\Command\UpdateFightLogicCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Interface Name="IFightSystem" Collapsed="true">
+    <Position X="0.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACgACAABQAAAIQAAAgACQAAAAEAAEQAKAgA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\SpecificCode\PresentationLayerCode\FightSystem\IFightSystem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IController" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Layers\Controller\IController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

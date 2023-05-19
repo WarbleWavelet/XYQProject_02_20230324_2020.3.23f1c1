@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameFramework.Resource.Constant" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\Constant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.LoadAssetCallbacks" Collapsed="true">
+    <Position X="7.75" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAgACAQgBAAAAAAAAAAAgAAAAAAAAAAQA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadAssetCallbacks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.LoadBinaryCallbacks" Collapsed="true">
+    <Position X="7.75" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAACAAAAAAAEAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadBinaryCallbacks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.LoadBytesCallbacks" Collapsed="true">
+    <Position X="7.75" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAQAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadBytesCallbacks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.LoadResourceAgentHelperErrorEventArgs" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAEAAAAAAAAAAAAAAAAAAAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadResourceAgentHelperErrorEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.LoadResourceAgentHelperLoadCompleteEventArgs" Collapsed="true">
+    <Position X="0.5" Y="8" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAgAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadResourceAgentHelperLoadCompleteEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.LoadResourceAgentHelperParseBytesCompleteEventArgs" Collapsed="true">
+    <Position X="0.5" Y="7.25" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadResourceAgentHelperParseBytesCompleteEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.LoadResourceAgentHelperReadBytesCompleteEventArgs" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAEAAAAAAAAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadResourceAgentHelperReadBytesCompleteEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.LoadResourceAgentHelperReadFileCompleteEventArgs" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadResourceAgentHelperReadFileCompleteEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.LoadResourceAgentHelperUpdateEventArgs" Collapsed="true">
+    <Position X="0.5" Y="9.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAQAAAADAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadResourceAgentHelperUpdateEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.LoadSceneCallbacks" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAECAAAAACAACAAAAAAAAAAACAAAAAAIAQAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadSceneCallbacks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.PackageVersionListSerializer" Collapsed="true">
+    <Position X="0.5" Y="11.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\PackageVersionListSerializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.ReadOnlyVersionListSerializer" Collapsed="true">
+    <Position X="0.5" Y="10.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\ReadOnlyVersionListSerializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.ReadWriteVersionListSerializer" Collapsed="true">
+    <Position X="0.5" Y="12.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\ReadWriteVersionListSerializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.ResourceApplyFailureEventArgs" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAABAAAAAAAAAAAAQAAAAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\ResourceApplyFailureEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.ResourceApplyStartEventArgs" Collapsed="true">
+    <Position X="7.75" Y="5.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAgAAAAQAAAAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\ResourceApplyStartEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.ResourceApplySuccessEventArgs" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAABACAAAAAAAAAARAAAAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\ResourceApplySuccessEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.ResourceManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>Jzcybmc9GH+IOjVsGRnK6QhIChBHdd+CmLKVo2h5O4s=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\ResourceManager.AssetInfo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GameFramework.Resource.ResourcePackVersionListSerializer" Collapsed="true">
+    <Position X="7.75" Y="8.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\ResourcePackVersionListSerializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.ResourceUpdateAllCompleteEventArgs" Collapsed="true">
+    <Position X="7.75" Y="7.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\ResourceUpdateAllCompleteEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.ResourceUpdateChangedEventArgs" Collapsed="true">
+    <Position X="7.75" Y="6.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAgAAAAAABQAACAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\ResourceUpdateChangedEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.ResourceUpdateFailureEventArgs" Collapsed="true">
+    <Position X="3.5" Y="5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QQAAAAAAAAAAAAgAAAAAAAQAAAAAAEAAAAAAAABAEAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\ResourceUpdateFailureEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.ResourceUpdateStartEventArgs" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>wAAAAAAAAAAAAAgAAAAAABQAACAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\ResourceUpdateStartEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.ResourceUpdateSuccessEventArgs" Collapsed="true">
+    <Position X="0.5" Y="5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAgAAAAAAARAACAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\ResourceUpdateSuccessEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.ResourceVerifyFailureEventArgs" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\ResourceVerifyFailureEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.ResourceVerifyStartEventArgs" Collapsed="true">
+    <Position X="7.75" Y="7" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAQAAAAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\ResourceVerifyStartEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.ResourceVerifySuccessEventArgs" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAARAAAAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\ResourceVerifySuccessEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.UnloadSceneCallbacks" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAgAAAAAAgAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\UnloadSceneCallbacks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.UpdatableVersionListSerializer" Collapsed="true">
+    <Position X="0.5" Y="2" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\UpdatableVersionListSerializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameFramework.Resource.UpdateVersionListCallbacks" Collapsed="true">
+    <Position X="0.5" Y="11" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAIAAAAQCAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\UpdateVersionListCallbacks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="GameFramework.Resource.LocalVersionList" Collapsed="true">
+    <Position X="7.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAgACAAAAACAEAAAAAAAKAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LocalVersionList.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GameFramework.Resource.PackageVersionList" Collapsed="true">
+    <Position X="7.5" Y="12" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABgBAAAAAAAAAgAAAAgACAAIAACAEIYAAAAAKABAAAg=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\PackageVersionList.Asset.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GameFramework.Resource.ResourcePackVersionList" Collapsed="true">
+    <Position X="7.5" Y="12.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACABAAAIAAAAAAAAAAgACABAAAgAIAAAAAAAKAAAgAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\ResourcePackVersionList.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GameFramework.Resource.UpdatableVersionList" Collapsed="true">
+    <Position X="7.5" Y="13.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABgBAAAAAAAAAgAAAAgACAAIAACAEIYAAAAAKABAAAg=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\UpdatableVersionList.Asset.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="GameFramework.Resource.ILoadResourceAgentHelper" Collapsed="true">
+    <Position X="10" Y="19" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAiAAAAABATgAEAAAAAAAAAAAAAEAAEAAAgAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\ILoadResourceAgentHelper.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameFramework.Resource.IResourceGroup" Collapsed="true">
+    <Position X="10" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAEAAgAAAAQAABQAgIAAAAAAIACAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\IResourceGroup.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameFramework.Resource.IResourceGroupCollection" Collapsed="true">
+    <Position X="10" Y="20.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAABAEAAgAAAAAAABQAgIAAAAAAIACAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\IResourceGroupCollection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameFramework.Resource.IResourceHelper" Collapsed="true">
+    <Position X="10" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAABAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\IResourceHelper.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameFramework.Resource.IResourceManager" Collapsed="true">
+    <Position X="10" Y="22" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AhMgJkc9CAmAOAUgGBAIiQhACBAHVF2AEJIEo2ARIgg=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\IResourceManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="GameFramework.Resource.CheckVersionListResult" Collapsed="true">
+    <Position X="7.5" Y="19" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\CheckVersionListResult.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameFramework.Resource.HasAssetResult" Collapsed="true">
+    <Position X="7.5" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAQAAAAAAAAAIAgAAgAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\HasAssetResult.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameFramework.Resource.LoadResourceProgress" Collapsed="true">
+    <Position X="7.5" Y="20.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAACAABAAAAAAAAEAAAAAAAABA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadResourceProgress.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameFramework.Resource.LoadResourceStatus" Collapsed="true">
+    <Position X="7.5" Y="21.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAACIAAAAQAAAAAgAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadResourceStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameFramework.Resource.ResourceMode" Collapsed="true">
+    <Position X="7.5" Y="22" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAEQAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\ResourceMode.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="GameFramework.Resource.ApplyResourcesCompleteCallback" Collapsed="true">
+    <Position X="16.75" Y="18" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\ApplyResourcesCompleteCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.CheckResourcesCompleteCallback" Collapsed="true">
+    <Position X="13.5" Y="15.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAQAAAAAAAEAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\CheckResourcesCompleteCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.DecryptResourceCallback" Collapsed="true">
+    <Position X="13.5" Y="15" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABgAABAAAAAAAAAAAEABAEAAAACAAAAAAARAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\DecryptResourceCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.InitResourcesCompleteCallback" Collapsed="true">
+    <Position X="16.75" Y="17.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\InitResourcesCompleteCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.LoadAssetDependencyAssetCallback" Collapsed="true">
+    <Position X="13.5" Y="17.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAACAABAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadAssetDependencyAssetCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.LoadAssetFailureCallback" Collapsed="true">
+    <Position X="10" Y="16.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAACAAAAAAAAAAAAACAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadAssetFailureCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.LoadAssetSuccessCallback" Collapsed="true">
+    <Position X="7.5" Y="16.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAABAAAAAAAAACAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadAssetSuccessCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.LoadAssetUpdateCallback" Collapsed="true">
+    <Position X="16.75" Y="15.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAACAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadAssetUpdateCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.LoadBinaryFailureCallback" Collapsed="true">
+    <Position X="10" Y="18" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAACAAAAAAAAAAAAACAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadBinaryFailureCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.LoadBinarySuccessCallback" Collapsed="true">
+    <Position X="7.5" Y="18" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAABAAAAAAAAACAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadBinarySuccessCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.LoadBytesFailureCallback" Collapsed="true">
+    <Position X="10" Y="17.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAABAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadBytesFailureCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.LoadBytesSuccessCallback" Collapsed="true">
+    <Position X="7.5" Y="17.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAABAAAAAAAAACAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadBytesSuccessCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.LoadSceneDependencyAssetCallback" Collapsed="true">
+    <Position X="13.5" Y="18" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAACAABAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadSceneDependencyAssetCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.LoadSceneFailureCallback" Collapsed="true">
+    <Position X="10" Y="15" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAACAAAAAAAAAAAAACAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadSceneFailureCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.LoadSceneSuccessCallback" Collapsed="true">
+    <Position X="7.5" Y="15" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAACAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadSceneSuccessCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.LoadSceneUpdateCallback" Collapsed="true">
+    <Position X="16.75" Y="16.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAACAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\LoadSceneUpdateCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.UnloadSceneFailureCallback" Collapsed="true">
+    <Position X="10.25" Y="14.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\UnloadSceneFailureCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.UnloadSceneSuccessCallback" Collapsed="true">
+    <Position X="7.5" Y="14.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\UnloadSceneSuccessCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.UpdateResourcesCompleteCallback" Collapsed="true">
+    <Position X="16.75" Y="15" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\UpdateResourcesCompleteCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.UpdateVersionListFailureCallback" Collapsed="true">
+    <Position X="10.5" Y="15.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\UpdateVersionListFailureCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.UpdateVersionListSuccessCallback" Collapsed="true">
+    <Position X="7.5" Y="15.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\UpdateVersionListSuccessCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GameFramework.Resource.VerifyResourcesCompleteCallback" Collapsed="true">
+    <Position X="13.5" Y="16.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Plugins\GameFramework\GameFramework\Resource\VerifyResourcesCompleteCallback.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

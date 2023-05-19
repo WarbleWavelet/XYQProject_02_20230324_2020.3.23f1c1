@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Architecture&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIACAAAAAECAAAFAEAAAAAAAASAACABCABAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Architecture.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EventRegistration" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5" Y="9.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Event\EventRegistration.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameEventSystem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="10.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Event\GameEventSystem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UnEventRegistration&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5" Y="10.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Event\UnEventRegistration.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IOCContainer" Collapsed="true">
+    <Position X="2.75" Y="10.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAABAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\IOC\IOCContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CanGetLayersExternsion" Collapsed="true">
+    <Position X="5" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAACAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Rule\CanGetLayersExternsion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CanSendCommandExternsion" Collapsed="true">
+    <Position X="0.5" Y="9.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Rule\CanSendCommandExternsion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EventExternsion" Collapsed="true">
+    <Position X="2.75" Y="9.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Rule\EventExternsion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Singleton&lt;T&gt;" Collapsed="true">
+    <Position X="7.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Singleton\Singleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartArchitecture" Collapsed="true">
+    <Position X="7.5" Y="10" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAEAAAAAAAAAAIEAIAAACAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\StartArchitecture.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BindableProperty&lt;T&gt;" Collapsed="true">
+    <Position X="2.75" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEgCAAAAQgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Layers\Model\BindableProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ICommand" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Command\ICommand.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IEventRegistration" Collapsed="true">
+    <Position X="2.75" Y="11.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Event\IEventRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IEventSystem" Collapsed="true">
+    <Position X="5" Y="11.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Event\IEventSystem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IUnRegister" Collapsed="true">
+    <Position X="2.75" Y="12.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Event\IUnRegister.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IArchitecture" Collapsed="true">
+    <Position X="0.5" Y="11.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIACAAAAAECAAAAAEAAAAAAAASAAAABCABAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\IArchitecture.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IBelongToArchitecture" Collapsed="true">
+    <Position X="3.75" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Rule\IBelongToArchitecture.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ICanGetModle" Collapsed="true">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Rule\ICanGetModle.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ICanGetSystem" Collapsed="true">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Rule\ICanGetSystem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ICanGetUtility" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Rule\ICanGetUtility.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ICanRegistAndUnRegistEvent" Collapsed="true">
+    <Position X="7.25" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Rule\ICanRegistAndUnRegistEvent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ICanSendCommand" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Rule\ICanSendCommand.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ICanSendEvent" Collapsed="true">
+    <Position X="2" Y="2.75" Width="1.5" />
+    <InheritanceLine Type="IBelongToArchitecture" FixedToPoint="true">
+      <Path>
+        <Point X="4.75" Y="4.5" />
+        <Point X="4.75" Y="3.802" />
+        <Point X="2.75" Y="3.802" />
+        <Point X="2.75" Y="3.427" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Rule\ICanSendEvent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ISingleton" Collapsed="true">
+    <Position X="0.5" Y="12.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAACAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Singleton\ISingleton.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IController" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Layers\Controller\IController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IModel" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Layers\Model\IModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ISystem" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Layers\System\ISystem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IUtility" Collapsed="true">
+    <Position X="5" Y="12.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Layers\Utility\IUtility.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CopyOfICanGetUtility" Collapsed="true">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameFramework\ReusableCode\Architecture\Rule\ICanGetUtility.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
